@@ -1,5 +1,4 @@
 # GAybarys
-sex
 <doctype html>
 <html>
 <l1>
